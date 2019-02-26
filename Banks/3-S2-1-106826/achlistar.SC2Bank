@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="achievement">
+        <Key name="set">
+            <Value int="6"/>
+        </Key>
+        <Key name="save">
+            <Value string="0j}KCEfMEbgb4FLMBD7JF3HNFI7IFGMIDHL8EEMNFELLG37IDGMJEFHLGDLNDHJKDFJL1ELMDEMJG3MIGGMKBIHKGEKLBH7NDFKKDELIFGKLEHLJGGJI1G7LE3MLGFKMFEMN"/>
+        </Key>
+        <Key name="playername">
+            <Value text="마자용"/>
+        </Key>
+    </Section>
+    <Signature value="4BC07E1438A0B7A693D61E70CA1DCFBD5059E209"/>
+</Bank>

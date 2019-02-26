@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="4">
+        <Key name="llIllIlIIIII">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="6">
+        <Key name="llIllIlIIIII">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="1">
+        <Key name="llIllIlIIIII">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="3">
+        <Key name="llIllIlIIIII">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="2">
+        <Key name="llIllIlIIIII">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="5">
+        <Key name="llIllIlIIIII">
+            <Value int="1"/>
+        </Key>
+    </Section>
+</Bank>
